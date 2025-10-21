@@ -18,7 +18,7 @@ VPC、サブネット、セキュリティグループ、EC2インスタンス�
 ### 1️⃣ Terraformで環境を作成 (`terraform apply`)
 Terraformを使用してAWS上にEC2インスタンスを自動構築しました。
 
-![Terraform Apply](./terraform_apply.png)
+![Terraform Apply](terraform_apply..png)
 
 ---
 
