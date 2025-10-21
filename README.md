@@ -41,7 +41,7 @@ Terraformで自動作成されたVPCとサブネットの構成を確認。
 作成したEC2インスタンスの詳細をAWSコンソールで確認。  
 VPC IDやPublic IP、セキュリティグループの関連付けを確認できます。
 
-![Security Group詳細](./Security%20Group詳細.png)
+![AWSコンソールでのEC2詳細](images/ec2-detail.png)
 
 ---
 
